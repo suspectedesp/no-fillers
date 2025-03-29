@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="No Fillers" modversion="1.0.0" corepackage="False" steamworkshopid="3444936302" gameversion="1.7.7.0">
+  <RandomEvents file="%ModDir%/Content/Events/EventSets.xml" />
+  <RandomEvents file="%ModDir%/Content/Events/FactionEvents.xml" />
+  <RandomEvents file="%ModDir%/Content/Events/OutpostEvents.xml" />
+  <RandomEvents file="%ModDir%/Content/Events/TraitorEvents.xml" />
+  <RandomEvents file="%ModDir%/Content/Events/PvPEvents.xml" />
+  <Corpses file="%ModDir%/Content/NPCPrefabs/Corpses.xml" />
+  <NPCSets file="%ModDir%/Content/NPCPrefabs/OutpostNpcs.xml" />
+  <NPCSets file="%ModDir%/Content/NPCPrefabs/SpecialNpcs.xml" />
+  <Item file="%ModDir%/Content/Items/JobGear/Clown/clown.xml" />
+  <Item file="%ModDir%/Content/Items/JobGear/Mechanic/mechanic_talent_items.xml" />
+  <Item file="%ModDir%/Content/Items/Misc/pvp_items.xml" />
+  <Item file="%ModDir%/Content/Items/Misc/misc.xml" />
+  <Item file="%ModDir%/Content/Items/Weapons/weaponsold.xml" />
+  <Talents file="%ModDir%/Content/Talents/Assistant/TalentsAssistant.xml" />
+  <Talents file="%ModDir%/Content/Talents/Mechanic/TalentsMechanic.xml" />
+</contentpackage>
